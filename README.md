@@ -1,4 +1,4 @@
-# Proxmox Docker QDevice
+# PVE (Proxmox) QDevice
 This repository provides a solution to enhance the reliability of a 2-node Proxmox cluster by introducing a QDevice running within a Docker container. By implementing this setup, you can achieve quorum in scenarios where one node becomes unavailable, thereby maintaining the high availability of your services.
 
 ## Understanding the Quorum Problem in 2-Node Proxmox Clusters
